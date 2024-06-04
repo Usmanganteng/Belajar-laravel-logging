@@ -11,6 +11,25 @@
 ```
 >> - Cara tahu laravel sekarang versi berapa : https://packagist.org/packages/laravel/laravel
 ---
+<b>Cara Menjalankan/run project</b>
+---
+> # Stap 1
+> ```
+> git clone git@github.com:Usmanganteng/belajar-laravel-logging.git
+> ```
+> # Stap 2
+> ```
+> npm install
+> ```
+> # Stap 3
+> ```
+> npm update
+> ```
+> # Stap 4
+> ```
+> php artisan serve
+> ```
+---
 <b>Materi/poin utama</b>
 ---
 > #### Logging Configuration
